@@ -1,16 +1,11 @@
-# todo_app
+This is a simple toDoApp made using flutter and dart.
 
-A new Flutter project.
+<img width="1426" alt="ToDo_1" src="https://github.com/user-attachments/assets/b33cad2d-41ac-46ad-9ffc-06d042cd51a2" />  
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="1437" alt="toDo_2" src="https://github.com/user-attachments/assets/ecb43795-6287-42f4-8afa-5979eea3dfcf" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
